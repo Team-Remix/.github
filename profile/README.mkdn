@@ -52,6 +52,6 @@
     This repository is maintained by Tanvir Hasan
   </p>
   <p style="font-size:0.9em; color:#9E9E9E;">
-    © 2024 Team Remix Reborn. All rights reserved.
+    © 2025 Team Remix Reborn. All rights reserved.
   </p>
 </div>
