@@ -11,7 +11,7 @@
 | **Name**                    | **Role**                       | **GitHub Profile**                                  | **Telegram**                              |
 |-----------------------------|--------------------------------|-----------------------------------------------------|-------------------------------------------|
 | **NebbaGiveUp**             | Owner and Founder              | [siam-linux](https://github.com/siam-linux)        | [@NebbaGiveUp](https://t.me/NebbaGiveUp)  |
-| **Faizan Khan**             | Co-Founder                     | [Fazokhan](https://github.com/Fazokhan)            | [@Fazokhan](https://t.me/Fazokhan)        |
+| **Faizan Khan**             | Member                     | [Fazokhan](https://github.com/Fazokhan)            | [@Fazokhan](https://t.me/Fazokhan)        |
 | **Ishan Dev**               | Co-Founder                     | [MeizIshanDev](https://github.com/MeizIshanDev)    | [@MeIzIshanDev](https://t.me/MeIzIshanDev)|
 | **Tanvir Hasan**            | Team Manager                   | [tanvirr007](https://github.com/tanvirr007)        | [@tanvirr007](https://t.me/tanvirr007)    |
 
